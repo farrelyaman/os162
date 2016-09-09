@@ -1,0 +1,1 @@
+in this week we have studied scripting, we get to know how to use vi and some of the command for example cat, cd, cp, ls man more, mv, rm, touch, wc and also some more advanced stuff
