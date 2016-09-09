@@ -17,3 +17,6 @@ drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:29 week08
 drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:29 week09
 drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:29 week10
 /home/fasilkom/mahasiswa/m/muhammad.farrel/os162/week01
+Today is 09 Sep 2016 at 11:43:37
+Today is 09 Sep 2016 at 11:45:21
+Today is 09 Sep 2016 at 19:45:47
