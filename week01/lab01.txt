@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 muhammad.farrel StafCS 4096 Sep  9 11:07 .
+drwx--x--x  4 muhammad.farrel StafCS 4096 Sep  9 10:56 ..
+drwxr-xr-x  8 muhammad.farrel StafCS 4096 Sep  9 10:57 .git
+-rw-r--r--  1 muhammad.farrel StafCS    0 Sep  9 11:08 lab01.txt
+-rw-r--r--  1 muhammad.farrel StafCS    7 Sep  9 10:18 README.md
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:33 SandBox
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:56 week00
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:26 week01
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:27 week02
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:27 week03
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:27 week04
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:28 week05
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:28 week06
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:28 week07
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:29 week08
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:29 week09
+drwxr-xr-x  2 muhammad.farrel StafCS 4096 Sep  9 10:29 week10
+/home/fasilkom/mahasiswa/m/muhammad.farrel/os162/week01
