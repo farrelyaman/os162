@@ -1,0 +1,29 @@
+In this blog I’m Keyne Kassapa Oei and my friend M.Farrel Yaman A.P will discuss a video 
+about input and output system (I/O system) and device driver which was uploaded by Umass OS 
+with the title of the video is Lecture 18: I/O system and device drivers with the duration 
+of 1 hours 19 seconds in link https://www.youtube.com/watch?v=Z0GVUkUGGao.
+
+In I/O system there are components that we need to know which are of system bus, port, controller and the devices itself. 
+which the port are consist of status that indicates a device, control , data-in, and data-out. 
+The lowest piece of software are device drivers, device drivers are basically piece of code inside kernel that talk to device controllers, 
+the job of device driver is to handle different types of commands. In I/O system there is called Direct Memory Access(DMA), 
+the job of DMA is to make that we don’t transfer large data at a time, the idea of DMA is that the DMA controller is going 
+to function as a stand-in for CPU while the device is doing I/O. 
+
+I/O device have buffer memory where they store data before being transferred to CPU, buffer is to cope with speed mismatch, 
+so it can store in the buffer of data first then transferred it to CPU. We can improve performance by caching, 
+the idea is we can improve performance by accessing the disk a fewer number of times. if we do read and write the first 
+thing to do is to see wether we have that data in the past, if we have the data in the past we can just handle it 
+immediately without doing any disc I/O.
+
+To summarize I/O is very expensive and we need to make very slow I/O device work efficiently with a much faster main memory in CPU.
+This is a very good video because this video teach us to make I/O device to work efficiently and faster main memory in the CPU, 
+this video also showing some problem which was shown in the class so we can study it with this video. 
+
+Keyne Kassapa github account is keynekassapa13.
+M.Farrel Yaman A.P github account is farrelyaman. 
+URL for this review is http://keynekassapa13.blogspot.co.id/2016/12/review2-io-system-and-device-drivers.html . 
+URL for youtube video is http://keynekassapa13.blogspot.co.id/2016/12/review2-io-system-and-device-drivers.html .
+We submit this review at 8 December 2016 23:25 PM
+We revised this review at 8 December 2016 23:25 PM
+

@@ -1,0 +1,35 @@
+In this blog I’m Keyne Kassapa Oei and my friend M.Farrel Yaman A.P will discuss a video about 
+Deadlocks which was uploaded by UMass OS with the title of the video is Lecture 10: Deadlocks 
+with the duration of 1 hours 13 minutes in link https://www.youtube.com/watch?v=au6DIawo7fY 
+
+The background of deadlock is when a process value is needed by each processes. This process can happen 
+when a user wants to share resources using links, memory, and else. Deadlock can occur in a finite number of 
+trial when threads are competing for a resource. There is 3 main points about the deadlock; Deadlock detection, 
+deadlock prevention, and deadlock avoidance. Deadlock detection to find the deadlock when threads stop making 
+some progress and it will try to recover from the infinite loop. Deadlock prevention will restrict you from 
+possibility of deadlock occurring. Deadlock avoidance will check resource request and its availability to 
+avoid the thread from making infinite loop. The resources sometime are available but used by other thread 
+which will make the thread waits. This process called as starvation. 
+
+Deadlock can happen if there is at least one of these 4 conditions occur; Mutual Exclusion, Hold and wait, 
+no preemption, and circular wait. Mutual Exclusion happens when one thread or more hold a resource that is 
+not shareable which means the resource can be used by only one thread. Hold and wait happens when one thread 
+or more waiting for other resources become available. No preemption happens when the thread cannot force 
+other thread to release the resource. Circular wait happens when there is list of waiting thread. 
+Deadlock detection can be done by looking the allocation graph. If there is a cycle or a possible loop, 
+then a deadlock might be occurring. To correct the deadlock, you can kill all threads in the infinite loop, 
+forcing the deadlock to give up resources needed. Avoiding deadlock can be done by resource reservation which 
+algorithm must ensure that there will be no circular-wait condition occurs. There is other way to resolve this 
+which is using resource allocation graph by denying the unsafe state.
+
+The summary of this video is that the deadlock is a condition where a set of threads cannot run normally since 
+it must wait for resources. It can be solved by 3 main solutions that has already written above. 
+The man in this video explain specifically about how deadlock works and how to solved the problem. 
+
+Keyne Kassapa github account is keynekassapa13.
+M.Farrel Yaman A.P github account is farrelyaman. 
+URL for this review is http://keynekassapa13.blogspot.co.id/2016/12/review1-deadlock.html 
+URL for youtube video is https://www.youtube.com/watch?v=au6DIawo7fY . 
+We submit this review at 8 December 2016 23:25 PM
+We revised this review at 8 December 2016 23:25 PM
+
